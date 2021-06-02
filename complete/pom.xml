@@ -55,5 +55,9 @@
 			</plugin>
 		</plugins>
 	</build>
-
+<properties>
+  <sonar.projectKey>nibum2001_testpolymer</sonar.projectKey>
+  <sonar.organization>nibum2001</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 </project>
