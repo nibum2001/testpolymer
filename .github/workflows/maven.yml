@@ -5,7 +5,7 @@ name: Build
 on:
   push:
     branches:
-      - master
+      - dependabot/maven/complete/junit-junit-4.13.1
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
