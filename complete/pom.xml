@@ -12,8 +12,8 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		  <sonar.projectKey>nibum2001_testpolymer</sonar.projectKey>
-  <sonar.organization>nibum2001</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		  <sonar.organization>nibum2001</sonar.organization>
+		  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
 	<dependencies>
